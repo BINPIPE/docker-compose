@@ -5,7 +5,7 @@
 
 With applications getting larger and larger as time goes by it gets harder to manage them in a simple and reliable way. That is where Docker Compose comes into play. Docker Compose allows us developers to write a YAML configuration file for our application service which then can be started using a single command.
 
-You can refer to this article for [Notes about Docker Compose](https://gabrieltanner.org/blog/docker-compose)
+You can refer to this article for [Notes about Docker Compose](https://github.com/BINPIPE/docker-compose/blob/main/docker-compose.pdf)
 
 ### Docker Essentials Resources
 
