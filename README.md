@@ -7,7 +7,7 @@ With applications getting larger and larger as time goes by it gets harder to ma
 
 You can refer to this article for [Notes about Docker Compose](https://github.com/BINPIPE/docker-compose/blob/main/docker-compose.pdf)
 
-Refer this to [Install Docker COmpose](https://docs.docker.com/compose/install/)
+Refer this to [Install Docker Compose](https://docs.docker.com/compose/install/)
 
 ### Docker Essentials Resources
 
