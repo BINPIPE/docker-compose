@@ -1,7 +1,7 @@
 # docker-compose
 `Learn about Docker Compose!`
 
-[![BINPIPE](https://img.shields.io/badge/Docker-Compose-blue)](https://www.youtube.com/watch?v=24Og6gqsLUU) - Watch this free video for the complete tutorial!
+[![BINPIPE](https://img.shields.io/badge/Docker-Compose-blue)](https://youtu.be/oCwv6WWfmEs) - Watch this free video for the complete tutorial!
 
 With applications getting larger and larger as time goes by it gets harder to manage them in a simple and reliable way. That is where Docker Compose comes into play. Docker Compose allows us developers to write a YAML configuration file for our application service which then can be started using a single command.
 
